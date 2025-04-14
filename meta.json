@@ -1,5 +1,86 @@
 {
   "schemaVersion": 1,
   "hotfixesFormat": null,
-  "versions": []
+  "versions": [
+    {
+      "id": "1.0.0-beta.7",
+      "releasedAt": 1744451220,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6414267"
+        }
+      }
+    },
+    {
+      "id": "1.0.0-beta.6",
+      "releasedAt": 1744131540,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6399581"
+        }
+      }
+    },
+    {
+      "id": "1.0.0-beta.5",
+      "releasedAt": 1743684060,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6380713"
+        }
+      }
+    },
+    {
+      "id": "1.0.0-beta.4",
+      "releasedAt": 1743641400,
+      "updateType": "minor_breaking",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6379475"
+        }
+      }
+    },
+    {
+      "id": "1.0.0-beta.3",
+      "releasedAt": 1743557460,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6376201"
+        }
+      }
+    },
+    {
+      "id": "1.0.0-beta.2-hotfix_rp",
+      "releasedAt": 1743547740,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6375797"
+        }
+      }
+    },
+    {
+      "id": "1.0.0-beta.2",
+      "releasedAt": 1743546480,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6375744"
+        }
+      }
+    },
+    {
+      "id": "1.0.0-beta.1",
+      "releasedAt": 1743451380,
+      "updateType": "",
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic/files/6371797"
+        }
+      }
+    }
+  ]
 }
