@@ -1,0 +1,19 @@
+Wilderwoods v1.0.0 Beta 4
+Please back up your worlds before updating!
+
+Added:
++ Default Options
++ e4mc (world sharing)
++ Fantasy Armor
++ Fantasy Weapons
++ JEI Integration
++ Labels
+
+Removed:
+- Cosmetic Armor
+- Cosmetic Weapons
+
+Developer Notes:
+Changed out the cosmetic armor and weapons set for more functional and aesthetically fitting alternatives
+Fixed main menu issues... hopefully?
+Updated the starter quests chapter.

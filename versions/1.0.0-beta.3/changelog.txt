@@ -1,0 +1,9 @@
+Wilderwoods v1.0.0 Beta 3 - Performance Tweaks
+
+Please make backups of your worlds before updating!
+
+Added Mods:
+
++ Better FPS Dist
++ Canary
++ Entity Culling

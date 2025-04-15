@@ -1,0 +1,4 @@
+Wilderwoods v1.0.0 Beta 2 RP HOTFIX
+
+Fixed broken resource pack extraction on some launchers.
+Somehow, it was broken during file generation. My bad... -w-"

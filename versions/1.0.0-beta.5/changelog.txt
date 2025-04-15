@@ -1,0 +1,11 @@
+Wilderwoods v1.0.0 Beta 5
+Please back up your configs and worlds before updating!
+
+Added:
++ Configured Defaults
+
+Removed:
+- Default Options
+
+Developer Notes:
+Fixed modpack configs... again... -_-"

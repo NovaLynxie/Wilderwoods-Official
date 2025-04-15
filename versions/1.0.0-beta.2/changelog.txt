@@ -1,0 +1,26 @@
+Wilderwoods v1.0.0 Beta 2
+
+WARNING! Please back up your worlds before doing this, as removing Mine & Slash causes world files to no longer load. Either run "optimize" on your existing worlds or create a fresh one, as this change is not backwards-compatible.
+
+Added mods:
+
++ Supplementaries Squared
++ Right Click Harvest
++ RCH Supp. Compat
++ Just Leveling
++ Realm RPG: Creep & Crop
++ Realm RPG: Pots & Mimics
++ Excalibur Just Leveling Support
+
+Updated mods:
+
+~ Supplementaries (v1.20-3.1.21 -> v1.20-3.1.24)
+
+Removed mods:
+
+- Mine & Slash (replaced with Just Leveling)
+
+Disabled fancy menu custom music playing in pause menu.
+Fixed main menu bugs and glitches.
+Fixed supplementaries globes causing client crash. (Thanks MehVahdJukaar!)
+Updated and fixed main quests! Please check your quest books for changes.

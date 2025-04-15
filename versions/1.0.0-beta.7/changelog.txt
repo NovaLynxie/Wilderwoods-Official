@@ -1,0 +1,36 @@
+Wilderwoods v1.0.0 Beta 7 (More bug fixes :D)
+Please back up your configs and worlds before updating!
+
+Added:
++ Biome Music
++ Chat Heads
++ Deeper and Darker (New Quest Chapter!)
++ Domestication Innovation
++ Ferrite Core
++ MmmMmmMmmmmm
++ Sword Blocking Mechanics
+
+Updated:
+~ Arcane Abilities (0.2.5 -> 0.2.6)
+~ Cocktails Delight (1.0.3 -> 1.1.0) [formerly Brewin Compat Delight]
+~ Etheria (0.1.9 -> 0.2.0)
+~ FirstPerson (2.4.8 -> 2.4.9)
+~ Hexalia (1.0.1 -> 1.2.4)
+~ Hexerei (0.4.2.2 -> 0.4.2.3)
+~ NotEnoughAnimations (1.9.2 -> 1.9.3)
+~ Rustic Delight (1.4.0 -> 1.4.1)
+
+Removed:
+- Armored Redstone
+- Villager Recruits (Clashes with Butcher's pillager disguise armor effect)
+- Villager Workers
+
+Changelog Details:
+Added Biome Music to play whenever you're exploring biomes giving each their own unique tracks.
+Added Ferrite Core to optimise memory usage and keep the game stable.
+Added Deeper and Darker with its own Quest Chapter!
+Added Dummy mod to allow players to test their attacks, also a fancy new decor :D
+Added Sword Blocking Mechanics for easier defense early game without a shield.
+Decided to remove Villager Recruits and Workers mods due to chat spam bug when wearing full Pillager Disguise.
+Updated Hexerei to fix candle dipper client crash! Fixes known bug with candle dipper.
+Tweaked AlmostUnified configs to ignore unifying Hexalia's transmutation recipes. Fixes Sage Pendant recipe somehow ending up missing.

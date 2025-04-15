@@ -1,0 +1,18 @@
+Wilderwoods v1.0.0 Beta 6
+Please back up your configs* and worlds before updating!
+
+Added:
++ Cognition (Experience Obelisk)
++ Golem Spawn Animation
++ Wither Spawn Animation
++ Loot Beams: Relooted!
+
+Removed:
+- Just Leveling (Broken, heavily outdated & incompatible with Better Combat)
+
+Changelog Details:
+Added Cognition for providing new ways to store and preserve experience!
+Added special animations to the wither boss and golem spawns to bring some flair to the pack.
+Fixed Tetra Support resource pack and made it compatible with 1.20.1. *Update required for resource pack overrides config!
+Removed Just Leveling due to incompatibility with Better Combat and causing game-breaking issues.
+Removed Excalibur Just Leveling Support resource pack since no longer required.
