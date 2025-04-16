@@ -3,23 +3,23 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.0-beta.8",
-      "releasedAt": 1744811040000,
-      "updateType": "minor_breaking"
+      "id": "1.0.0-beta.1",
+      "releasedAt": 1743451380000,
+      "updateType": "major"
     },
     {
-      "id": "1.0.0-beta.7",
-      "releasedAt": 1744451220000,
-      "updateType": "minor_breaking"
+      "id": "1.0.0-beta.2",
+      "releasedAt": 1743546480000,
+      "updateType": "major"
     },
     {
-      "id": "1.0.0-beta.6",
-      "releasedAt": 1744131540000,
-      "updateType": "minor_breaking"
+      "id": "1.0.0-beta.2-hotfix_rp",
+      "releasedAt": 1743547740000,
+      "updateType": "minor"
     },
     {
-      "id": "1.0.0-beta.5",
-      "releasedAt": 1743684060000,
+      "id": "1.0.0-beta.3",
+      "releasedAt": 1743557460000,
       "updateType": "minor"
     },
     {
@@ -28,24 +28,24 @@
       "updateType": "minor_breaking"
     },
     {
-      "id": "1.0.0-beta.3",
-      "releasedAt": 1743557460000,
+      "id": "1.0.0-beta.5",
+      "releasedAt": 1743684060000,
       "updateType": "minor"
     },
     {
-      "id": "1.0.0-beta.2-hotfix_rp",
-      "releasedAt": 1743547740000,
-      "updateType": "minor"
+      "id": "1.0.0-beta.6",
+      "releasedAt": 1744131540000,
+      "updateType": "minor_breaking"
     },
     {
-      "id": "1.0.0-beta.2",
-      "releasedAt": 1743546480000,
-      "updateType": "major"
+      "id": "1.0.0-beta.7",
+      "releasedAt": 1744451220000,
+      "updateType": "minor_breaking"
     },
     {
-      "id": "1.0.0-beta.1",
-      "releasedAt": 1743451380000,
-      "updateType": "major"
+      "id": "1.0.0-beta.8",
+      "releasedAt": 1744811040000,
+      "updateType": "minor_breaking"
     }
   ]
 }
