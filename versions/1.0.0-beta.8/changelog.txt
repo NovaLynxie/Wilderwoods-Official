@@ -1,0 +1,23 @@
+Wilderwoods v1.0.0 Beta 8
+Please remember to back up your modpack instance before updating!
+
+Added:
++ Better Advancements
++ Better Compatibility Checker (client to server version checks)
++ Forge Config Menus
++ Loot Integrations Addons (Better Archeology, Dungeons and Taverns)
++ Modpack Update Checker (pack update verification checks)
++ Wandering Bags
++ Wandering Wares
+
+Removed:
+- Wan's Ancient Beasts
+
+Developer Notes:
+Added better advancements, no longer dealing with that painfully small window!
+Added easier configurability in-game! It will make updating configs much easier while the game is loaded.
+Added more quests for Goblins' Tyranny and two new quest chapters for Hexalia and Eidolon: Repraised magic mods.
+Added modpack version checking utilities to indicate better if your client and server configurations are compatible.
+Completely redone the main menu buttons and layout! If the new layout does not apply, please reinstall the modpack.
+Removed Wan's Ancient Beasts since Ice & Fire already satisfies the modpack's mob needs.
+Tweaked Advancement Plaques' configuration should reduce the frequency of announcement spam on player advancements.

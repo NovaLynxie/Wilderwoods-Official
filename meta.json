@@ -3,6 +3,11 @@
   "hotfixesFormat": null,
   "versions": [
     {
+      "id": "1.0.0-beta.8",
+      "releasedAt": 1744811040000,
+      "updateType": "minor_breaking"
+    },
+    {
       "id": "1.0.0-beta.7",
       "releasedAt": 1744451220000,
       "updateType": "minor_breaking"
