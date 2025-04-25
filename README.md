@@ -1,4 +1,9 @@
-# Wilderwoods-Official
-Data Repository and Issue Tracker for the Wilderwoods Official modpack!
+# Wilderwoods Modpack
+## Data Repo and Issue tracker
+![](https://cf.way2muchnoise.eu/title/1232890.svg) ![](https://cf.way2muchnoise.eu/full_1232890_downloads.svg) ![](https://cf.way2muchnoise.eu/versions/1232890.svg)  
 
-Download our modpack from CurseForge here! https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic
+## Links
+### Downloads
+- **CurseForge:** [Modpack Download](https://www.curseforge.com/minecraft/modpacks/wilderwoods-mystical-beasts-and-technomagic)
+### Socials
+- ***Coming soon...***
