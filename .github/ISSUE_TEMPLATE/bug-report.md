@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: Found a bug or game crashed? Let us know so we can investigate!
 title: "[ BUG / CRASH ] <TITLE>"
 labels: bug, pending
 assignees: NovaLynxie
