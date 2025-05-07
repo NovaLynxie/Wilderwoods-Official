@@ -1,5 +1,5 @@
 ---
-name: Feature Request or Enhancement
+name: "\U0001F4ADFeature Request or Enhancement"
 about: Got an idea to improve the experience? Let us know!
 title: "[ Feature ] <TITLE>"
 labels: enhancement

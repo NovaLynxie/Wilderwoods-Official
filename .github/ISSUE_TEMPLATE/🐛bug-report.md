@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: "\U0001F41BBug Report"
 about: Found a bug or game crashed? Let us know so we can investigate!
 title: "[ BUG / CRASH ] <TITLE>"
 labels: bug, pending
