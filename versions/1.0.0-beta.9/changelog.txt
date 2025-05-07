@@ -1,0 +1,9 @@
+Wilderwoods v1.0.0 Beta 9
+Please remember to back up your modpack instance before updating!
+
+Updated:
+    Cognition v2.3.6 -> v2.3.7 (fixes unknown recipe serializer bug in multiplayer)
+
+Changelog Details:
+Updated Cognition, fixes bug causing "Unknown recipe serializer" errors in multiplayer! (Thanks firetech6434 for identifying this!)
+Various updates to other mods.

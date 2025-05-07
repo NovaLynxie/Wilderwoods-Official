@@ -46,6 +46,11 @@
       "id": "1.0.0-beta.8",
       "releasedAt": 1744811040000,
       "updateType": "minor_breaking"
+    },
+    {
+      "id": "1.0.0-beta.9",
+      "releasedAt": 1746635160000,
+      "updateType":"minor_breaking"
     }
   ]
 }
