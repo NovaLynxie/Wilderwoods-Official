@@ -13,7 +13,7 @@
 - [x] Multiplayer compatibility (in progress)
   - [x] Multiplayer testing
   - [x] Server files
-- [ ] Full stable release! (to be announced)
+- [ ] Full stable release? (to be announced)
 
 ## Future Opportunities / Ideas?
 
