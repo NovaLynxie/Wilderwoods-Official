@@ -7,7 +7,7 @@
   - [x] Setup questlines
   - [x] Build fancy menu layout
   - [x] Resource packs
-    - [x] Excalibur + Compats
+    - [x] Excalibur + Compats (WIP)
   - [x] Shader support?
 - [x] ~~Alpha~~/Beta test builds (in progress)
 - [x] Multiplayer compatibility (in progress)
