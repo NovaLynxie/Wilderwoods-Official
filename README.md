@@ -17,4 +17,6 @@ If you are having trouble, please first check your server crash reports to see w
 
 ### Do you have a roadmap to check for upcoming features or release dates?
 
-I am still setting up more parts of the repo but rest assured that I will be making a proper roadmap for release as we go along.
+~~I am still setting up more parts of the repo but rest assured that I will be making a proper roadmap for release as we go along.~~  
+We now have a [roadmap](./ROADMAP.md) for features either in development or planned!  
+If you have any suggestions for potential features, please go read this first to see if I have it planned or already implemented.
