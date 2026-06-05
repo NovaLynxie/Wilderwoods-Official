@@ -12,7 +12,7 @@
 - [x] ~~Alpha~~/Beta test builds (in progress)
 - [x] Multiplayer compatibility (in progress)
   - [x] Multiplayer testing
-  - [x] Server files
+  - [x] Server files (v1.0.0-beta.9)
 - [ ] Full stable release? (to be announced)
 
 ## Future Opportunities / Ideas?
