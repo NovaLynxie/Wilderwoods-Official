@@ -7,3 +7,4 @@ Updated:
 Changelog Details:
 Updated Cognition, fixes bug causing "Unknown recipe serializer" errors in multiplayer! (Thanks firetech6434 for identifying this!)
 Various updates to other mods.
+Now has server files available for configuring your own server!
